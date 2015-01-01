@@ -24,9 +24,10 @@ Below is an artists impression of the software as flows and Cues:
 
 <img src="https://s3-us-west-2.amazonaws.com/moodhash/fCUES.jpg" />
 I have started an experimental apps  with imlementation ideas of Flow s and Cues . It is available as an android project frpm Google Play:
-https://play.google.com/store/search?q=moodhashpub&hl=en
+https://play.google.com/store/search?q=moodhashpub&hl=en or here
+https://play.google.com/store/apps/details?id=com.pronab.moodhash
 Although there is a fair bit of work to do to bring he whole facility to fruition.
-Floowing is a rough ToDo List for the projec.
+Floowing is a rough ToDo List for the project.
 
 
 
