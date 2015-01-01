@@ -9,10 +9,10 @@ The benifit of this approach is programming in small and programming in large co
 <h2>Definitions and Concepts</h2>:
  
 <h3>Words</h3> : By the term 'word' I mean any signficant word or phrases for a subject matter. They are the smallest units of text that relate to something within a subject matter.
-<h3>Cue</h3> : A Cue is a collection of words [not more than 10 ] that has a name which by itself is a word. A cue thus reflects a stae of our short term memory while we are in a process of creating or understanding s subject matter.
+<h3>Cue</h3> : A Cue is a collection of words [not more than 10 ] that has a name which by itself is a word. A cue thus reflects a stae of our short term memory while we are in a process of creating or understanding s subject matter. A Cue may hold a value of free text or binary data and/or a function.
 <h3>Flow </h3>: A flow is a sequence of Cues which reflects the process of progressively understanding or deriving a Cue at the end of the flow.
 <p>
-This project  gives a way to represent the two mental states of Cue and Flow in a way that helps us create content ,understand content and learn new skills, while allowing us to develop software in terms of those very items which human beings understand without resorting to any other extra formalities just for writing software like e.g variable definitions , program construction etc , which in form of executables stays within the function within the Cues.
+This project  gives a way to represent the two mental states of Cue and Flow in a way that helps us create content ,understand content and learn new skills, while allowing us to develop software in terms of those very items which human beings understand without resorting to any other extra formalities just for writing software like e.g variable definitions , program unit construction,database etc , which in form of executables stays within the function within the Cues.
 <p>
 <h3>Requirement</h3> : Any software requirement is thus seen as a sequence of elaboration through Cues, which in turn make up a flow, with the contextual functions living within a boundary of a Cue of any flow.
 <p>
