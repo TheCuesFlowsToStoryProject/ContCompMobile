@@ -28,7 +28,7 @@ I have started an experimental apps  with imlementation ideas of Flow s and Cues
 https://play.google.com/store/search?q=moodhashpub&hl=en or here
 https://play.google.com/store/apps/details?id=com.pronab.moodhash
 Although there is a fair bit of work to do to bring he whole facility to fruition.
-Floowing is a rough ToDo List for the project.
+Following is a rough ToDo List for the project.
 
 
 
