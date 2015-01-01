@@ -9,8 +9,9 @@ The benifit of this approach is programming in small and programming in large co
  
 
 <h3>Words</h3> : By the term 'word' I mean any signficant word or phrases for a subject matter. They are the smallest units of text that relate to something within a subject matter.
-Cue : A Cue is a collection of words [not more than 10 ] that has a name which by itself is a word. A cue thus reflects a stae of our short term memory while we are in a process of creating or understanding s subject matter.
-Flow : A flow is a sequence of Cues which reflects the process of progressively understanding or deriving a Cue at the end of the flow.
+<h3>Cue</h3> : A Cue is a collection of words [not more than 10 ] that has a name which by itself is a word. A cue thus reflects a stae of our short term memory while we are in a process of creating or understanding s subject matter.
+<h3>Flow </h3>: A flow is a sequence of Cues which reflects the process of progressively understanding or deriving a Cue at the end of the flow.
+<p>
 This project  gives a way to represent the two mental states of Cue and Flow is a way that helps us create content ,understand content and learn new skills, while allowing us to develop software interms of those items which human beings understand.
 Requirement : any software requirement is thus seen as a sequence of elaboration through Cues, which in turn make up a flow.
 We shall see any Cue is addressable as a sequence of dot seperated words ,known as a Uniform Context Language. Each of the words in a UCL represent a name of a Cue.
