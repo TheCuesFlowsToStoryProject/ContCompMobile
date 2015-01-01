@@ -14,7 +14,7 @@ The benifit of this approach is programming in small and programming in large co
 <p>
 This project  gives a way to represent the two mental states of Cue and Flow is a way that helps us create content ,understand content and learn new skills, while allowing us to develop software in terms of those items which human beings understand without resorting to any other extra formalities just for writing software like e.g variable definitions , program entities etc , which if required stays within the function within the Cues.
 <p>
-<h3>Requirement</h3> : any software requirement is thus seen as a sequence of elaboration through Cues, which in turn make up a flow.
+<h3>Requirement</h3> : Any software requirement is thus seen as a sequence of elaboration through Cues, which in turn make up a flow.
 <p>
 We shall see any Cue is addressable as a sequence of dot seperated words ,known as a Uniform Context Language. Each of the words in a UCL represent a name of a Cue.
 <p>
