@@ -23,6 +23,11 @@ The adddress of a Cue in turn also represnts the flow that places  the Cue in th
 Below is an artists impression of the software as flows and Cues:
 
 <img src="https://s3-us-west-2.amazonaws.com/moodhash/fCUES.jpg" />
+I have started an experimental apps  with imlementation ideas of Flow s and Cues . It is available as an android project frpm Google Play:
+https://play.google.com/store/search?q=moodhashpub&hl=en
+Although there is a fair bit of work to do to bring he whole facility to fruition.
+Floowing is a rough ToDo List for the projec.
+
 
 
 
