@@ -30,6 +30,14 @@ https://play.google.com/store/apps/details?id=com.pronab.moodhash
 Although there is a fair bit of work to do to bring he whole facility to fruition.
 Following is a rough ToDo List for the project.
 
+<ol>
+<li> Establish UCL interface through both Java and Javascript API. 
+<li> Translate the flow and focus data structure to MongoDB with both java and javascript API. </li>
+<li> Establsh Nodejs server as front end to Java verb server </li>
+<li> Standarize the Android API to talk to Java verb server through Node.js </li>
+</ol>
+
+
 
 
 
