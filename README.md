@@ -20,7 +20,7 @@ We shall see any Cue is addressable as a sequence of dot seperated words ,known 
 <p>
 The adddress of a Cue in turn also represnts the flow that places  the Cue in the context uniqely formed for the Cue. Thus the structure of a content is defined by the content itself.
 
-Below is an artists impression of the software as flows and Cues:
+Below is an artists impression of the software as Flows and Cues:
 
 <img src="https://s3-us-west-2.amazonaws.com/moodhash/fCUESc.jpg" />
 <h3> Experimental </h3> <img src="https://lh4.ggpht.com/jvcg2RUZ7Dy8XGk55Dm5VLviBKZQ9KN3IaV4QHkFpadIFIjSMEPoDeH94y8pNXHjaig=h310-rw" />
